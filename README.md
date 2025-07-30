@@ -1,4 +1,3 @@
-"# ProductCatlog" 
 
 [Website link](https://tinyurl.com/ms9wxvac)
 # ChazeFashion - Product Catalog System
