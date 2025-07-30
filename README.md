@@ -1,6 +1,6 @@
 "# ProductCatlog" 
 
-https://productcatlog-2-ho49.onrender.com/
+[Website link](https://tinyurl.com/ms9wxvac)
 # ChazeFashion - Product Catalog System
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
