@@ -1,7 +1,7 @@
 "# ProductCatlog" 
 
 https://productcatlog-2-ho49.onrender.com/
-# 🛍️ ChazeFashion - Product Catalog System
+# ChazeFashion - Product Catalog System
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Django](https://img.shields.io/badge/Django-4.x-green.svg)
@@ -11,17 +11,17 @@ ChazeFashion is a modern fashion product catalog built using Django. It allows f
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🧾 **Product Listing:** Organized product display with categories and details
-- 🖼️ **Media Management:** Upload and serve avatar and product images
-- 🎨 **Custom Themes:** Easy theming with the `theme` and `templates` directories
-- 🛠️ **Admin Panel:** Django admin for managing products and users
-- 🔒 **User Profiles:** (Coming soon) User authentication and avatar management
+- **Product Listing:** Organized product display with categories and details
+- **Media Management:** Upload and serve avatar and product images
+- **Custom Themes:** Easy theming with the `theme` and `templates` directories
+- **Admin Panel:** Django admin for managing products and users
+- **User Profiles:** (Coming soon) User authentication and avatar management
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ChazeFashion/
 ├── catalog/ # Django app for catalog logic
@@ -51,30 +51,12 @@ python manage.py
 python manage.py runserver
   
 
-👨‍💻 Development Notes
+Development Notes
 Default database is SQLite for quick setup
 
 Static/media files served locally during development
 
-Recommended IDE: Visual Studio Code
 
-📌 Future Enhancements (Ideas)
-🔍 Product search and filtering
-
-👥 User login/signup with social auth
-
-📦 Inventory and stock tracking
-
-🌐 API support (Django REST Framework)
-
-🧪 Unit and integration tests
-
-🤝 Contributing
-Contributions are welcome! Feel free to open issues or pull requests if you’d like to collaborate.
-
-🧑‍💻 Author
-Bhairava009
-GitHub: @bhairava009
 
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
