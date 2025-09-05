@@ -34,7 +34,6 @@ ChazeFashion/
 
 
 ```bash
-git clone https://github.com/bhairava009/ProductCatlog.git
 cd ProductCatlog
 #######Set Up a Virtual Environment
 bash
